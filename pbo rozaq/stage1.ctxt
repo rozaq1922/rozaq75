@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=stage1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ stage1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=gravity
+comment1.target=void\ setGravity(int)
+comment2.params=
+comment2.target=stage1()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ stage1.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4
